@@ -1,0 +1,22 @@
+{
+  "name": "slack_botkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uryu1994/slack_botkit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uryu1994/slack_botkit/issues"
+  },
+  "homepage": "https://github.com/uryu1994/slack_botkit#readme",
+  "devDependencies": {
+    "botkit": "^0.4.2"
+  }
+}
