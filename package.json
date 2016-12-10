@@ -16,7 +16,8 @@
     "url": "https://github.com/uryu1994/slack_botkit/issues"
   },
   "homepage": "https://github.com/uryu1994/slack_botkit#readme",
-  "devDependencies": {
-    "botkit": "^0.4.2"
+  "dependencies": {
+    "botkit": "^0.4.2",
+    "jquery": "^3.1.1"
   }
 }
